@@ -1,0 +1,58 @@
+//code1:
+let yob = 1999;
+  let age = 2022-yob;
+  if(age>=13&&age<=19){
+    console.log("Teenage");
+  }else if(age>=20&&age<=29){
+    console.log("Twenties");
+  }
+
+//code2:
+let char = "i";
+if (char=="a"||char=="e"||char=="i"||char=="o"||char=="u"){
+  console.log("Vowel");
+}else{
+  console.log("Consonant");
+}
+
+//code3:
+let char = "b";
+if (char=="a"||char=="e"||char=="i"||char=="o"||char=="u"){
+  console.log("Vowel");
+}else{
+  console.log("Consonant");
+}
+
+//code4:
+let a = 10;
+let b = 15;
+let c = 9;
+if(a>b && a>c){
+  console.log("a is greater");
+}else if(b>a && b>c){
+  console.log("b is greater");
+}else{
+  console.log("c is greater");
+  
+}
+
+//code5:
+let day = "Sun";
+switch(day){
+  case "Mon":console.log("Monday");break;
+    
+  case "Tue":console.log("Tuesday");break;
+    
+  case "Wed":console.log("Wednesay");break;
+    
+  case "Thur":console.log("Thursday");break;
+    
+  case "Fri":console.log("Friday");break;
+    
+  case "Sat":console.log("Saturday");break;
+    
+  case "Sun":console.log("Sunday");break;
+    
+  default:console.log("Wrong Input");
+    
+}
