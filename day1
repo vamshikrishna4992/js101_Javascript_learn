@@ -1,0 +1,36 @@
+//1st code:
+let a = "Masai School";
+let b = "A Transformation in Education" ;
+console.log(a);
+console.log(b);
+
+//2nd code:
+let name = "Vamshi Krishna";
+console.log(name);
+let father_name = "Kumaraswamy";
+console.log(father_name);
+let mother_name = "Sujatha";
+console.log(mother_name);
+
+//3rd code:
+var name = "Vamshi Krishna";
+var age = 21;
+console.log(name);
+console.log(age);
+
+//4th code:
+let name = "Vamshi";
+let school = "ZPHS Ramaiahpally";
+let grade = 10;
+let section = "A";
+let roll_number = "fw22_0191";
+let marks_in_subject1 = 90;
+let marks_in_subject2 = 93;
+let marks_in_subject3 = 95;
+console.log("name:"+name);
+console.log("school:"+school);
+console.log("grade:"+grade);
+console.log("roll_number:"+roll_number);
+console.log("marks_in_subject1:"+marks_in_subject1);
+console.log("marks_in_subject2:"+marks_in_subject2);
+console.log("marks_in_subject3:"+marks_in_subject3);
