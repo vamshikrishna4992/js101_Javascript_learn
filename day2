@@ -1,0 +1,13 @@
+//code1:
+let a = "krishna";
+let b = "vamshi";
+console.log(a-b);
+console.log(a+" "+b);
+console.log(a%b);
+console.log(a/b);
+console.log(a*b);
+ 
+//code2:
+let a = 5;
+let b = "10";
+console.log(a>=b);
